@@ -1,0 +1,1800 @@
+{
+	"folder_history":
+	[
+		"/home/caio-note/repositorios/oi-cloud-frontend",
+		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail",
+		"/home/caio-note/Downloads",
+		"/home/caio-note/repositorios",
+		"/home/caio-note/repositorios/caio/avaliacao-front",
+		"/home/caio-note/caio_arqvs/javascript-jquery",
+		"/home/caio-note/repositorios/oi-email-auth/auth-statics",
+		"/home/caio-note/arquivos-pc-antigo/curso-front-caelum",
+		"/home/caio-note/arquivos-pc-antigo/curso-front-caelum/caelum-arquivos-curso-web/mirrorfashion",
+		"/home/caio-note/caio_arqvs",
+		"/home/caio-note/.config/sublime-text-3/Packages",
+		"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao",
+		"/home/caio-note/.config/sublime-text-3/Packages/Colorsublime-Themes",
+		"/home/caio-note/repositorios/nodejs/ftp",
+		"/home/caio-note/repositorios/nodejs",
+		"/home/caio-note/Área de Trabalho/nova/autenticacao-oi-mail",
+		"/home/caio-note/Área de Trabalho/nova",
+		"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite",
+		"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets",
+		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets",
+		"/home/caio-note/repositorios/imoi-frontend",
+		"/home/caio-note/teste-git/front-end/migracao-email/autenticacao-oi-mail",
+		"/home/caio-note/repositorios/backbone-tutorial",
+		"/home/caio-note/Área de Trabalho/autenticacao/v-2",
+		"/home/caio-note/Área de Trabalho/autenticacao",
+		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/fonts/simplon",
+		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03",
+		"/home/caio-note/Área de Trabalho/Agora/Renato",
+		"/home/caio-note/caio_arqvs/Backbone.js",
+		"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite",
+		"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite",
+		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05",
+		"/home/caio-note/Área de Trabalho/Agora/html_welcome_message",
+		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email",
+		"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao",
+		"/home/caio-note/repositorios/workspace-dev/hotsite-provas",
+		"/home/caio-note/repositorios/hanoi-loja-componentes",
+		"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415 email",
+		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas",
+		"/home/caio-note/Área de Trabalho/bueno-novo",
+		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02",
+		"/etc/nginx",
+		"/home/caio-note/Área de Trabalho/form",
+		"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap",
+		"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite",
+		"/home/caio-note/Área de Trabalho/Ale",
+		"/home/caio-note/Área de Trabalho",
+		"/home/caio-note/Área de Trabalho/markup",
+		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao",
+		"/home/caio-note/repositorios/workspace-dev/novo-clientes-05",
+		"/home/caio-note/repositorios/workspace-dev/email-falha-migracao-04",
+		"/home/caio-note/repositorios/workspace-dev/boas-vindas-03",
+		"/home/caio-note/repositorios/workspace-dev/lembrete-02",
+		"/home/caio-note/repositorios/workspace-dev/intervencao-minha-conta",
+		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/alerta-01",
+		"/home/caio-note/repositorios/workspace-dev/alerta-01",
+		"/home/caio-note/Área de Trabalho/email-mkt/teste",
+		"/home/caio-note/Área de Trabalho/email-mkt/teste/instabilidade",
+		"/home/caio-note/Área de Trabalho/email-mkt/teste/aviso-mudanca-email",
+		"/home/caio-note/Área de Trabalho/email-mkt/teste/instabilidade/assets/img",
+		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/aviso-mudanca-email",
+		"/home/caio-note/repositorios/front-end/migracao-email",
+		"/home/caio-note/repositorios/caio-teste/bootstrap-3.3.4",
+		"/home/caio-note/repositorios/caio-teste",
+		"/home/caio-note/Área de Trabalho/email-mkt",
+		"/home/caio-note/arquivos-pc-antigo/backup-git/front-end/migracao-email",
+		"/home/caio-note/repositorios/front-end/email-mkt/incentivo-pos-carnaval",
+		"/home/caio-note/repositorios/front-end",
+		"/home/caio-note/Área de Trabalho/boasvindas",
+		"/home/caio-note/Área de Trabalho/instabilidade",
+		"/home/caio-note/Área de Trabalho/intervencao-instabilidade"
+	],
+	"last_version": 3083,
+	"last_window_id": 271,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"for",
+						"formattedText"
+					],
+					[
+						"flo",
+						"floatToMoneyText"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"Im",
+						"important"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"b",
+						"button	<button>"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"bs-xs",
+						"bs-xxs"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"marig",
+						"margin-top"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"sho",
+						"showError"
+					],
+					[
+						"data-",
+						"data-target"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"hr",
+						"href	Attr"
+					],
+					[
+						"modal",
+						"modal"
+					],
+					[
+						"moda",
+						"modalShow"
+					],
+					[
+						"mag",
+						"margin"
+					],
+					[
+						"FORMU",
+						"formulario-template"
+					],
+					[
+						"Pesqui",
+						"Pesquisa_View"
+					],
+					[
+						"paddin",
+						"padding"
+					],
+					[
+						"marin",
+						"margin"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline"
+					],
+					[
+						"to",
+						"toggleAllComplete"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bs",
+						"bs-xxs"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"clien",
+						"Cliente"
+					],
+					[
+						"l",
+						"lorem	HTML - Lorem Ipsum"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"bloc",
+						"inline-block"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"impo",
+						"important"
+					],
+					[
+						"t",
+						"tweetView"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"PADDI",
+						"padding-bottom"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"class",
+						"class	Attr"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"i",
+						"inherit"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"magin",
+						"margin-right"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"TEXT",
+						"textStatus"
+					],
+					[
+						"TEX",
+						"textStatus"
+					],
+					[
+						"conter",
+						"counter"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"cell",
+						"cellspacing	Attr"
+					],
+					[
+						"sty",
+						"style	Attr"
+					],
+					[
+						"inte",
+						"intervencao-minha-conta"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 201.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"MINI",
+						"View: Toggle Minimap"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"meta",
+						"Snippet: HTML - Meta tags"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/navbar.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-mixins.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/userlogin.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/html/index.html",
+				"/etc/hosts",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/index.html",
+				"/home/caio-note/repositorios/oi-email-auth/auth-statics/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/tdu-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/router.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/app.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/models/app-model.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/css/ie.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+				"/etc/host.conf",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/humans.txt",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/robots.txt",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05/novos-clientes.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/less/bootstrap/variables.less",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-fonts.scss",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/index.html",
+				"/home/caio-note/repositorios/nodejs/olanode.js",
+				"/home/caio-note/repositorios/nodejs/frase.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/ie.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/userlogin.css",
+				"/home/caio-note/.bashrc",
+				"/tmp/planilha.csv",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/background-size-polyfill/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery.print/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/images/bg-autenticacao-mobile.jpg",
+				"/tmp/.fr-L9wrIE/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery-ajaxTransport-XDomainRequest/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/_bootstrap-custom.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/bootstrap.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/base/_markup-mixins.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/app-view.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/boasvindas.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/assets/css/estilo.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/tdu.html",
+				"/tmp/rsub-5bp2p4/app-view.js",
+				"/tmp/rsub-__pk56/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/js/views/app-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/bower.json",
+				"/home/caio-note/Área de Trabalho/autenticacao/v-2/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/.bower.json",
+				"/home/caio-note/Área de Trabalho/Caio-deploy/erroemail.html",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/404.html",
+				"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets/js/views/app-view.js",
+				"/home/caio-note/Área de Trabalho/Caio-deploy/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/instabilidade.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/,",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap/bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-colors.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boas-vindas-novos/assets/estilo.css",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03/boas-vindas.html",
+				"/tmp/rsub-715856/auth-proxy",
+				"/home/caio-note/.ssh/config",
+				"/tmp/rsub-vnsrs7/vip-ucs-auth.dev.infra.conf",
+				"/home/caio-note/repositorios/oi-cloud-frontend/src/app/app.js",
+				"/tmp/rsub-bj3cfl/untitled",
+				"/home/caio-note/repositorios/oi-cloud-frontend/bower.json",
+				"/tmp/rsub-5pfg23/vip-ucs-auth.dev.infra.conf",
+				"/tmp/rsub-ceeyna/.bashrc",
+				"/tmp/rsub-vbz2q4/oimail.oidev.com.br.conf",
+				"/tmp/rsub-wu1voz/run.sh",
+				"/home/caio-note/Área de Trabalho/autenticacao/index.html",
+				"/tmp/rsub-_a3o61/sshd_config",
+				"/tmp/rsub-f72ybt/fstab",
+				"/home/caio-note/Área de Trabalho/oimail.oidev.com.br.conf",
+				"/tmp/rsub-m91m4o/oimail.oidev.com.br.conf",
+				"/home/caio-note/.ssh/known_hosts",
+				"/home/caio-note/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/gulpfile.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/assets/css/all.css",
+				"/home/caio-note/Área de Trabalho/um.html",
+				"/home/caio-note/.profile",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02/brturbo.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view-dois.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/navbar.css",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/tdu/conteudo-tdu.html",
+				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/index.html",
+				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nvr/data/termos-de-uso.json",
+				"/home/caio-note/Downloads/index(2).html",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/intervencao-oimail.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/novoarquivo.js",
+				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/respond.min.js",
+				"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite/scss/all.scss",
+				"/home/caio-note/repositorios/front-end/email-mkt/cobilling-abradi/abradi.html",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/teaser-migracao/teaser-migracao.html",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nve/pagina-construcao/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/fonts/fonts.css",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/css/vitrine.css",
+				"/home/caio-note/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/caio-note/Área de Trabalho/uuuu.html",
+				"/home/caio-note/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boas-vindas-novos.html",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boas-vindas-novos/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boasvindas/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boasvindas.html",
+				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415.html",
+				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415",
+				"/tmp/.fr-MyHYce/index.html",
+				"/home/caio-note/Área de Trabalho/backup-webdav/Oi_termos_de_uso.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/assets/css/estilo.css",
+				"/home/caio-note/Área de Trabalho/form/index(1).html",
+				"/etc/nginx/conf.d/form.conf",
+				"/etc/nginx/sites-enabled/default",
+				"/etc/nginx/conf.d/sites-available.conf",
+				"/etc/nginx/nginx.conf",
+				"/etc/nginx/conf.d/sites-available.txt",
+				"/etc/nginx/sites-available/default",
+				"/etc/nginx/sites-available.text",
+				"/home/caio-note/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/caio-note/.config/sublime-text-3/Packages/Stupid Indent/Stupid Indent.sublime-settings",
+				"/home/caio-note/.config/sublime-text-3/Packages/User/Stupid Indent.sublime-settings",
+				"/home/caio-note/Área de Trabalho/form/assets/css/style.css",
+				"/home/caio-note/Área de Trabalho/form/formulario.html",
+				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/estilo.css",
+				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/formulario.html",
+				"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite/index.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 108.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"con",
+					"conta",
+					"box-ce",
+					"            \n",
+					"cover",
+					".log",
+					"log",
+					"consol",
+					"console",
+					">\n",
+					"boxes",
+					"boxe",
+					"boxes",
+					"{\n",
+					"box-login-general",
+					"form-login",
+					"confirmail",
+					"upp",
+					"listFiles",
+					"modalTermoUsoTdu",
+					"modalE",
+					"modalErro",
+					"contrato",
+					"box",
+					"output",
+					"printWorkingDirectory",
+					"Set",
+					"set",
+					"remoteDirectory",
+					"logou",
+					"dow",
+					"dowlo",
+					"output",
+					"retri",
+					"showErrorModal",
+					"hiddenUrl",
+					"error",
+					"modalErro",
+					"auto",
+					"50px",
+					"SEGURA",
+					"34110331\"",
+					"porf",
+					"por",
+					"btnImp",
+					"btmImp",
+					"},\n",
+					"modal-termo-checkbox",
+					"#button-tdu",
+					"load",
+					"loading",
+					"#loading",
+					"termo",
+					"moda",
+					"polyfill",
+					"louisremi/background-size-polyfill",
+					".close",
+					"modalTermo",
+					"modalTermoUso",
+					"modalTermo",
+					"modalTermoUso",
+					"modal",
+					"modal-open",
+					".modal-open",
+					"class=\"imprimir\"",
+					"defaultErrorMessage",
+					"iframe",
+					"print",
+					"imp",
+					"hid",
+					"yello",
+					"F9B715",
+					"tdu",
+					"golden-box",
+					"golde",
+					"main",
+					"black",
+					"black\n",
+					"57",
+					"conteudo-principal",
+					"108px",
+					"myModal",
+					"veja",
+					"<br",
+					"br",
+					"xs",
+					"-lg",
+					"config-mobile",
+					"veja como",
+					"tdu",
+					"btn",
+					"        $('#",
+					"};\n",
+					"}\n",
+					"});\n",
+					"change-me",
+					"appView",
+					"input",
+					"true",
+					"Inclua",
+					"inclua",
+					"confirmail",
+					"modal-back",
+					"bootstrap-validator",
+					"400px",
+					"\n}",
+					"FF0000",
+					"errors",
+					"error",
+					"tdu",
+					"class=\"termo-de-uso\"",
+					"termo-de-uso",
+					"interne",
+					"serviços para",
+					"termo",
+					"btn",
+					"_",
+					"modalTermoUso",
+					"targe",
+					"modal",
+					"my",
+					"btn",
+					" />",
+					"teste1",
+					"teste1\n",
+					"valida",
+					"btn-block",
+					"#login"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gul",
+						"gulpfile.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"for",
+						"formattedText"
+					],
+					[
+						"flo",
+						"floatToMoneyText"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"Im",
+						"important"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"b",
+						"button	<button>"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"bs-xs",
+						"bs-xxs"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"marig",
+						"margin-top"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"sho",
+						"showError"
+					],
+					[
+						"data-",
+						"data-target"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"hr",
+						"href	Attr"
+					],
+					[
+						"modal",
+						"modal"
+					],
+					[
+						"moda",
+						"modalShow"
+					],
+					[
+						"mag",
+						"margin"
+					],
+					[
+						"FORMU",
+						"formulario-template"
+					],
+					[
+						"Pesqui",
+						"Pesquisa_View"
+					],
+					[
+						"paddin",
+						"padding"
+					],
+					[
+						"marin",
+						"margin"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inli",
+						"inline"
+					],
+					[
+						"to",
+						"toggleAllComplete"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bs",
+						"bs-xxs"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"clien",
+						"Cliente"
+					],
+					[
+						"l",
+						"lorem	HTML - Lorem Ipsum"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"bloc",
+						"inline-block"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"impo",
+						"important"
+					],
+					[
+						"t",
+						"tweetView"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"PADDI",
+						"padding-bottom"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"class",
+						"class	Attr"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"i",
+						"inherit"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"magin",
+						"margin-right"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"TEXT",
+						"textStatus"
+					],
+					[
+						"TEX",
+						"textStatus"
+					],
+					[
+						"conter",
+						"counter"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"cell",
+						"cellspacing	Attr"
+					],
+					[
+						"sty",
+						"style	Attr"
+					],
+					[
+						"inte",
+						"intervencao-minha-conta"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+					"settings":
+					{
+						"buffer_size": 5045,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+					"settings":
+					{
+						"buffer_size": 4655,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 201.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"MINI",
+						"View: Toggle Minimap"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"meta",
+						"Snippet: HTML - Meta tags"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass"
+			],
+			"file_history":
+			[
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/navbar.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-mixins.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/userlogin.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/html/index.html",
+				"/etc/hosts",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/index.html",
+				"/home/caio-note/repositorios/oi-email-auth/auth-statics/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/tdu-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/router.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/app.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/models/app-model.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/css/ie.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+				"/etc/host.conf",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/humans.txt",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/robots.txt",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05/novos-clientes.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/less/bootstrap/variables.less",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-fonts.scss",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/index.html",
+				"/home/caio-note/repositorios/nodejs/olanode.js",
+				"/home/caio-note/repositorios/nodejs/frase.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/ie.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/userlogin.css",
+				"/home/caio-note/.bashrc",
+				"/tmp/planilha.csv",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/background-size-polyfill/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery.print/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/images/bg-autenticacao-mobile.jpg",
+				"/tmp/.fr-L9wrIE/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery-ajaxTransport-XDomainRequest/.bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/_bootstrap-custom.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/bootstrap.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/base/_markup-mixins.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/app-view.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/boasvindas.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/assets/css/estilo.css",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/tdu.html",
+				"/tmp/rsub-5bp2p4/app-view.js",
+				"/tmp/rsub-__pk56/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/js/views/app-view.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/bower.json",
+				"/home/caio-note/Área de Trabalho/autenticacao/v-2/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/.bower.json",
+				"/home/caio-note/Área de Trabalho/Caio-deploy/erroemail.html",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/404.html",
+				"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets/js/views/app-view.js",
+				"/home/caio-note/Área de Trabalho/Caio-deploy/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/instabilidade.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/,",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap/bower.json",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-colors.scss",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boas-vindas-novos/assets/estilo.css",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03/boas-vindas.html",
+				"/tmp/rsub-715856/auth-proxy",
+				"/home/caio-note/.ssh/config",
+				"/tmp/rsub-vnsrs7/vip-ucs-auth.dev.infra.conf",
+				"/home/caio-note/repositorios/oi-cloud-frontend/src/app/app.js",
+				"/tmp/rsub-bj3cfl/untitled",
+				"/home/caio-note/repositorios/oi-cloud-frontend/bower.json",
+				"/tmp/rsub-5pfg23/vip-ucs-auth.dev.infra.conf",
+				"/tmp/rsub-ceeyna/.bashrc",
+				"/tmp/rsub-vbz2q4/oimail.oidev.com.br.conf",
+				"/tmp/rsub-wu1voz/run.sh",
+				"/home/caio-note/Área de Trabalho/autenticacao/index.html",
+				"/tmp/rsub-_a3o61/sshd_config",
+				"/tmp/rsub-f72ybt/fstab",
+				"/home/caio-note/Área de Trabalho/oimail.oidev.com.br.conf",
+				"/tmp/rsub-m91m4o/oimail.oidev.com.br.conf",
+				"/home/caio-note/.ssh/known_hosts",
+				"/home/caio-note/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/gulpfile.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/assets/css/all.css",
+				"/home/caio-note/Área de Trabalho/um.html",
+				"/home/caio-note/.profile",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02/brturbo.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view-dois.js",
+				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/navbar.css",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/tdu/conteudo-tdu.html",
+				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/index.html",
+				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nvr/data/termos-de-uso.json",
+				"/home/caio-note/Downloads/index(2).html",
+				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/index.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/intervencao-oimail.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/novoarquivo.js",
+				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/respond.min.js",
+				"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite/scss/all.scss",
+				"/home/caio-note/repositorios/front-end/email-mkt/cobilling-abradi/abradi.html",
+				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/teaser-migracao/teaser-migracao.html",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nve/pagina-construcao/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/fonts/fonts.css",
+				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/css/vitrine.css",
+				"/home/caio-note/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/home/caio-note/Área de Trabalho/uuuu.html",
+				"/home/caio-note/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boas-vindas-novos.html",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boas-vindas-novos/assets/css/estilo.css",
+				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boasvindas/assets/css/estilo.css",
+				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boasvindas.html",
+				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415.html",
+				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415",
+				"/tmp/.fr-MyHYce/index.html",
+				"/home/caio-note/Área de Trabalho/backup-webdav/Oi_termos_de_uso.html",
+				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/assets/css/estilo.css",
+				"/home/caio-note/Área de Trabalho/form/index(1).html",
+				"/etc/nginx/conf.d/form.conf",
+				"/etc/nginx/sites-enabled/default",
+				"/etc/nginx/conf.d/sites-available.conf",
+				"/etc/nginx/nginx.conf",
+				"/etc/nginx/conf.d/sites-available.txt",
+				"/etc/nginx/sites-available/default",
+				"/etc/nginx/sites-available.text",
+				"/home/caio-note/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/caio-note/.config/sublime-text-3/Packages/Stupid Indent/Stupid Indent.sublime-settings",
+				"/home/caio-note/.config/sublime-text-3/Packages/User/Stupid Indent.sublime-settings",
+				"/home/caio-note/Área de Trabalho/form/assets/css/style.css",
+				"/home/caio-note/Área de Trabalho/form/formulario.html",
+				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/estilo.css",
+				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/formulario.html",
+				"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite/index.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 108.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"con",
+					"conta",
+					"box-ce",
+					"            \n",
+					"cover",
+					".log",
+					"log",
+					"consol",
+					"console",
+					">\n",
+					"boxes",
+					"boxe",
+					"boxes",
+					"{\n",
+					"box-login-general",
+					"form-login",
+					"confirmail",
+					"upp",
+					"listFiles",
+					"modalTermoUsoTdu",
+					"modalE",
+					"modalErro",
+					"contrato",
+					"box",
+					"output",
+					"printWorkingDirectory",
+					"Set",
+					"set",
+					"remoteDirectory",
+					"logou",
+					"dow",
+					"dowlo",
+					"output",
+					"retri",
+					"showErrorModal",
+					"hiddenUrl",
+					"error",
+					"modalErro",
+					"auto",
+					"50px",
+					"SEGURA",
+					"34110331\"",
+					"porf",
+					"por",
+					"btnImp",
+					"btmImp",
+					"},\n",
+					"modal-termo-checkbox",
+					"#button-tdu",
+					"load",
+					"loading",
+					"#loading",
+					"termo",
+					"moda",
+					"polyfill",
+					"louisremi/background-size-polyfill",
+					".close",
+					"modalTermo",
+					"modalTermoUso",
+					"modalTermo",
+					"modalTermoUso",
+					"modal",
+					"modal-open",
+					".modal-open",
+					"class=\"imprimir\"",
+					"defaultErrorMessage",
+					"iframe",
+					"print",
+					"imp",
+					"hid",
+					"yello",
+					"F9B715",
+					"tdu",
+					"golden-box",
+					"golde",
+					"main",
+					"black",
+					"black\n",
+					"57",
+					"conteudo-principal",
+					"108px",
+					"myModal",
+					"veja",
+					"<br",
+					"br",
+					"xs",
+					"-lg",
+					"config-mobile",
+					"veja como",
+					"tdu",
+					"btn",
+					"        $('#",
+					"};\n",
+					"}\n",
+					"});\n",
+					"change-me",
+					"appView",
+					"input",
+					"true",
+					"Inclua",
+					"inclua",
+					"confirmail",
+					"modal-back",
+					"bootstrap-validator",
+					"400px",
+					"\n}",
+					"FF0000",
+					"errors",
+					"error",
+					"tdu",
+					"class=\"termo-de-uso\"",
+					"termo-de-uso",
+					"interne",
+					"serviços para",
+					"termo",
+					"btn",
+					"_",
+					"modalTermoUso",
+					"targe",
+					"modal",
+					"my",
+					"btn",
+					" />",
+					"teste1",
+					"teste1\n",
+					"valida",
+					"btn-block",
+					"#login"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5045,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1749,
+										1749
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1140.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4655,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,2308,414,2948,894,3286,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gul",
+						"gulpfile.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 269,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/autenticacao-oi-mail.sublime-workspace"
+		]
+	}
+}
