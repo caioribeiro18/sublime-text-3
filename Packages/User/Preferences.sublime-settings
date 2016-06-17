@@ -1,5 +1,18 @@
 {
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
-	"font_size": 12,
-	"theme": "Seti.sublime-theme"
+	"atomic_save": false,
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"default_encoding": "Western (ISO 8859-1)",
+	"default_line_ending": "LF",
+	"fallback_encoding": "Western (ISO 8859-1)",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Broceanic.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }

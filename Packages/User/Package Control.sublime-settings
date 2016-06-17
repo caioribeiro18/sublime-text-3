@@ -5,21 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AutoFileName",
-		"BracketHighlighter",
-		"Dictionaries",
-		"Emmet",
-		"HTML Snippets",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"HTMLAttributes",
-		"HTMLBeautify",
-		"IndentX",
-		"Open Folder",
+		"Clipboard Manager",
+		"Color Scheme - Vintage Terminal",
+		"Git",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
 		"Package Control",
-		"rsub",
-		"Sass",
+		"Phpcs",
 		"Seti_UI",
-		"Stupid Indent"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Subway Color Schemes",
+		"Theme - Broceanic"
 	]
 }

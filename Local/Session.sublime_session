@@ -1,80 +1,56 @@
 {
 	"folder_history":
 	[
-		"/home/caio-note/repositorios/oi-cloud-frontend",
-		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail",
-		"/home/caio-note/Downloads",
-		"/home/caio-note/repositorios",
-		"/home/caio-note/repositorios/caio/avaliacao-front",
-		"/home/caio-note/caio_arqvs/javascript-jquery",
-		"/home/caio-note/repositorios/oi-email-auth/auth-statics",
-		"/home/caio-note/arquivos-pc-antigo/curso-front-caelum",
-		"/home/caio-note/arquivos-pc-antigo/curso-front-caelum/caelum-arquivos-curso-web/mirrorfashion",
-		"/home/caio-note/caio_arqvs",
-		"/home/caio-note/.config/sublime-text-3/Packages",
-		"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao",
-		"/home/caio-note/.config/sublime-text-3/Packages/Colorsublime-Themes",
-		"/home/caio-note/repositorios/nodejs/ftp",
-		"/home/caio-note/repositorios/nodejs",
-		"/home/caio-note/Área de Trabalho/nova/autenticacao-oi-mail",
-		"/home/caio-note/Área de Trabalho/nova",
-		"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite",
-		"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets",
-		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets",
-		"/home/caio-note/repositorios/imoi-frontend",
-		"/home/caio-note/teste-git/front-end/migracao-email/autenticacao-oi-mail",
-		"/home/caio-note/repositorios/backbone-tutorial",
-		"/home/caio-note/Área de Trabalho/autenticacao/v-2",
-		"/home/caio-note/Área de Trabalho/autenticacao",
-		"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/fonts/simplon",
-		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03",
-		"/home/caio-note/Área de Trabalho/Agora/Renato",
-		"/home/caio-note/caio_arqvs/Backbone.js",
-		"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite",
-		"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite",
-		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05",
-		"/home/caio-note/Área de Trabalho/Agora/html_welcome_message",
-		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email",
-		"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao",
-		"/home/caio-note/repositorios/workspace-dev/hotsite-provas",
-		"/home/caio-note/repositorios/hanoi-loja-componentes",
-		"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415 email",
-		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas",
-		"/home/caio-note/Área de Trabalho/bueno-novo",
-		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02",
-		"/etc/nginx",
-		"/home/caio-note/Área de Trabalho/form",
-		"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap",
-		"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite",
-		"/home/caio-note/Área de Trabalho/Ale",
-		"/home/caio-note/Área de Trabalho",
-		"/home/caio-note/Área de Trabalho/markup",
-		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao",
-		"/home/caio-note/repositorios/workspace-dev/novo-clientes-05",
-		"/home/caio-note/repositorios/workspace-dev/email-falha-migracao-04",
-		"/home/caio-note/repositorios/workspace-dev/boas-vindas-03",
-		"/home/caio-note/repositorios/workspace-dev/lembrete-02",
-		"/home/caio-note/repositorios/workspace-dev/intervencao-minha-conta",
-		"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/alerta-01",
-		"/home/caio-note/repositorios/workspace-dev/alerta-01",
-		"/home/caio-note/Área de Trabalho/email-mkt/teste",
-		"/home/caio-note/Área de Trabalho/email-mkt/teste/instabilidade",
-		"/home/caio-note/Área de Trabalho/email-mkt/teste/aviso-mudanca-email",
-		"/home/caio-note/Área de Trabalho/email-mkt/teste/instabilidade/assets/img",
-		"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/aviso-mudanca-email",
-		"/home/caio-note/repositorios/front-end/migracao-email",
-		"/home/caio-note/repositorios/caio-teste/bootstrap-3.3.4",
-		"/home/caio-note/repositorios/caio-teste",
-		"/home/caio-note/Área de Trabalho/email-mkt",
-		"/home/caio-note/arquivos-pc-antigo/backup-git/front-end/migracao-email",
-		"/home/caio-note/repositorios/front-end/email-mkt/incentivo-pos-carnaval",
-		"/home/caio-note/repositorios/front-end",
-		"/home/caio-note/Área de Trabalho/boasvindas",
-		"/home/caio-note/Área de Trabalho/instabilidade",
-		"/home/caio-note/Área de Trabalho/intervencao-instabilidade"
+		"/media/all_devs/35/dev_bin/folhainvest",
+		"/media/all_devs/35/folhainvest.folha.com.br",
+		"/media/all_devs/35/common/classes/folhainvest",
+		"/media/all_devs/35/common",
+		"/media/all_devs/35/moss.corp.folha.com.br",
+		"/media/all_devs/35/marcie",
+		"/media/all_devs/35/logs/columbus",
+		"/media/all_devs/35/columbus",
+		"/media/all_devs/35/common/classes/moss",
+		"/media/all_devs/35/dev_bin/moss",
+		"/media/all_devs/35/empreendedorsocial",
+		"/media/all_devs/35/checkpoint",
+		"/media/all_devs/35/moss-corp-folha-com-br",
+		"/media/all_devs/35/common/classes",
+		"/media/all_devs/35/common/classes/guiadetv",
+		"/media/all_devs/35/logan.corp.folha.com.br",
+		"/media/all_devs/35/common/classes/logan",
+		"/media/all_devs/35/dev_bin/guiadetv",
+		"/media/all_devs/35/viki",
+		"/media/all_devs/35/dev_bin/logan",
+		"/media/all_devs/35/dev_bin",
+		"/media/all_devs/35/stats",
+		"/media/all_devs/35/common/classes/boilerplate",
+		"/media/all_devs/35/modelo.projeto",
+		"/media/all_devs/35/guiadetv.corp.folha.com.br",
+		"/media/all_devs/35/publifolha.folha.com.br",
+		"/media/all_devs/35/folhainvest-folha-com-br",
+		"/media/all_devs/35/publifolha-folha-com-br",
+		"/media/all_devs/35/biblioteca-ti",
+		"/media/all_devs/35/docs-corp-folha-com-br",
+		"/home/caio/Área de Trabalho/Documentaçõs",
+		"/media/all_devs/35/fipe",
+		"/var/www/html/empreendedor",
+		"/media/all_devs/35/zeus-corp-folha-com-br",
+		"/media/all_devs/35/meridius",
+		"/media/all_devs/35/fester",
+		"/media/all_devs/35/common/classes/zeus",
+		"/home/caio/Área de Trabalho/empreendedorsocial",
+		"/media/all_devs/35/mais",
+		"/home/caio/meus-testes/grafics",
+		"/media/all_devs/35/boilerplate.corp.folha.com.br",
+		"/media/all_devs/35/modelo-projeto",
+		"/media/all_devs/35/common/classes/stats",
+		"/var/www/html/livro-php",
+		"/media/all_devs/35/boilerplate-corp-folha-com-br",
+		"/home/caio/Modelos/modelo-projeto",
+		"/media/all_devs/35/devqa"
 	],
-	"last_version": 3083,
-	"last_window_id": 271,
+	"last_version": 3114,
+	"last_window_id": 244,
 	"log_indexing": false,
 	"settings":
 	{
@@ -86,300 +62,260 @@
 				"selected_items":
 				[
 					[
-						"mar",
-						"margin-top"
+						"del",
+						"$delivery〔variable〕"
 					],
 					[
-						"wi",
-						"width"
+						"deli",
+						"delivery"
 					],
 					[
-						"va",
-						"value"
+						"deliv",
+						"$delivery〔variable〕"
 					],
 					[
-						"get",
-						"getElementById"
+						"de",
+						"delivery"
+					],
+					[
+						"form",
+						"format"
+					],
+					[
+						"format",
+						"date_format"
+					],
+					[
+						"Per",
+						"Período"
+					],
+					[
+						"cus",
+						"customer_company_id"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"compan",
+						"company_id"
+					],
+					[
+						"en",
+						"enhancer"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"mo",
+						"modificação"
+					],
+					[
+						"Stat",
+						"status"
+					],
+					[
+						"span",
+						"span4"
+					],
+					[
+						"spa",
+						"span12"
+					],
+					[
+						"valid",
+						"valid_user"
+					],
+					[
+						"For",
+						"formulário"
+					],
+					[
+						"ans",
+						"answer"
+					],
+					[
+						"err",
+						"error_message_file"
 					],
 					[
 						"for",
-						"formattedText"
+						"for	for …"
 					],
 					[
-						"flo",
-						"floatToMoneyText"
+						"exc",
+						"excel_get_value"
 					],
 					[
-						"margin",
-						"margin-right"
+						"pFo",
+						"pFormatCode"
 					],
 					[
-						"text",
-						"text-align"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"paddi",
-						"padding-top"
-					],
-					[
-						"mari",
-						"margin-top"
-					],
-					[
-						"Im",
-						"important"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"margi",
-						"margin"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"b",
-						"button	<button>"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"back",
-						"background"
-					],
-					[
-						"bs-xs",
-						"bs-xxs"
-					],
-					[
-						"print",
-						"printScreen"
-					],
-					[
-						"marig",
-						"margin-top"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"con",
-						"console"
-					],
-					[
-						"c",
-						"console"
-					],
-					[
-						"sho",
-						"showError"
-					],
-					[
-						"data-",
-						"data-target"
-					],
-					[
-						"ini",
-						"inline-block"
-					],
-					[
-						"hr",
-						"href	Attr"
-					],
-					[
-						"modal",
-						"modal"
-					],
-					[
-						"moda",
-						"modalShow"
-					],
-					[
-						"mag",
-						"margin"
-					],
-					[
-						"FORMU",
-						"formulario-template"
-					],
-					[
-						"Pesqui",
-						"Pesquisa_View"
-					],
-					[
-						"paddin",
-						"padding"
-					],
-					[
-						"marin",
-						"margin"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"to",
-						"toggleAllComplete"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"bs",
-						"bs-xxs"
-					],
-					[
-						"in",
-						"include"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
-						"clien",
-						"Cliente"
-					],
-					[
-						"l",
-						"lorem	HTML - Lorem Ipsum"
-					],
-					[
-						"bord",
-						"border-radius"
-					],
-					[
-						"blo",
-						"block"
-					],
-					[
-						"bloc",
-						"inline-block"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"impo",
-						"important"
-					],
-					[
-						"t",
-						"tweetView"
-					],
-					[
-						"im",
-						"important"
-					],
-					[
-						"PADDI",
-						"padding-bottom"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"class",
-						"class	Attr"
+						"debug",
+						"debug_print_backtrace"
 					],
 					[
 						"fo",
-						"font-size"
+						"form_file"
 					],
 					[
-						"i",
-						"inherit"
+						"th",
+						"this"
 					],
 					[
-						"di",
-						"display"
+						"con",
+						"const"
 					],
 					[
-						"pos",
-						"position"
+						"name",
+						"name_file"
 					],
 					[
-						"magin",
-						"margin-right"
+						"send",
+						"send_mail"
 					],
 					[
-						"te",
-						"text-decoration"
+						"a",
+						"answer"
 					],
 					[
-						"TEXT",
-						"textStatus"
+						"tri",
+						"trigger_error"
 					],
 					[
-						"TEX",
-						"textStatus"
+						"re",
+						"return"
 					],
 					[
-						"conter",
-						"counter"
+						"rec",
+						"rec_clean"
 					],
 					[
-						"style",
-						"style	Attr"
+						"que",
+						"question"
 					],
 					[
-						"list",
-						"list-style"
+						"print",
+						"print_r"
+					],
+					[
+						"utf",
+						"imap_utf7_decode"
+					],
+					[
+						"u",
+						"utf8_decode"
+					],
+					[
+						"or",
+						"organização"
+					],
+					[
+						"Soci",
+						"Sociais"
+					],
+					[
+						"show",
+						"show_response"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"_er",
+						"_error_file_php"
+					],
+					[
+						"uplo",
+						"uploaded_file"
+					],
+					[
+						"vei",
+						"vehicle_year_id"
+					],
+					[
+						"reuq",
+						"request_service"
+					],
+					[
+						"cre",
+						"created_by"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"li",
+						"link_pronto"
+					],
+					[
+						"reques",
+						"request_service"
+					],
+					[
+						"sp",
+						"sprintf"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"ser",
+						"service_status"
+					],
+					[
+						"model",
+						"model_instance"
+					],
+					[
+						"ad",
+						"add_message_in_session"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"val",
+						"val_cancelado"
 					],
 					[
 						"font-s",
 						"font-size"
 					],
 					[
-						"cell",
-						"cellspacing	Attr"
+						"fun",
+						"function"
 					],
 					[
-						"sty",
-						"style	Attr"
+						"utf8",
+						"utf8_encode"
 					],
 					[
-						"inte",
-						"intervencao-minha-conta"
+						"per",
+						"percentComplete"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"taref",
+						"tarefa"
+					],
+					[
+						"bd",
+						"bdSenha"
 					]
 				]
 			},
@@ -389,63 +325,55 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 201.0,
-				"last_filter": "",
+				"height": 400.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
 					[
-						"insta",
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"MINI",
-						"View: Toggle Minimap"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
-						"wrap",
-						"Word Wrap: Toggle"
+						"git: s",
+						"Git: Status"
 					],
 					[
-						"html",
-						"HTML: Encode Special Characters"
+						"git",
+						"Git: Log All"
 					],
 					[
-						"meta",
-						"Snippet: HTML - Meta tags"
-					],
-					[
-						"instl",
+						"insa",
 						"Package Control: Install Package"
 					],
 					[
-						"",
-						"About"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
-						"instal",
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 521.0
+				"width": 601.0
 			},
 			"console":
 			{
 				"height": 139.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -459,144 +387,146 @@
 			},
 			"file_history":
 			[
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/navbar.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-mixins.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/userlogin.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/html/index.html",
-				"/etc/hosts",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/index.html",
-				"/home/caio-note/repositorios/oi-email-auth/auth-statics/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/tdu-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/router.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/app.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/models/app-model.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/css/ie.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
-				"/etc/host.conf",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/humans.txt",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/robots.txt",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05/novos-clientes.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/less/bootstrap/variables.less",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-fonts.scss",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/index.html",
-				"/home/caio-note/repositorios/nodejs/olanode.js",
-				"/home/caio-note/repositorios/nodejs/frase.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/ie.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/userlogin.css",
-				"/home/caio-note/.bashrc",
-				"/tmp/planilha.csv",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/background-size-polyfill/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery.print/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/images/bg-autenticacao-mobile.jpg",
-				"/tmp/.fr-L9wrIE/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery-ajaxTransport-XDomainRequest/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/_bootstrap-custom.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/bootstrap.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/base/_markup-mixins.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/app-view.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/boasvindas.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/assets/css/estilo.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/tdu.html",
-				"/tmp/rsub-5bp2p4/app-view.js",
-				"/tmp/rsub-__pk56/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/js/views/app-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/bower.json",
-				"/home/caio-note/Área de Trabalho/autenticacao/v-2/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/.bower.json",
-				"/home/caio-note/Área de Trabalho/Caio-deploy/erroemail.html",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/404.html",
-				"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets/js/views/app-view.js",
-				"/home/caio-note/Área de Trabalho/Caio-deploy/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/instabilidade.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/,",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap/bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-colors.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boas-vindas-novos/assets/estilo.css",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03/boas-vindas.html",
-				"/tmp/rsub-715856/auth-proxy",
-				"/home/caio-note/.ssh/config",
-				"/tmp/rsub-vnsrs7/vip-ucs-auth.dev.infra.conf",
-				"/home/caio-note/repositorios/oi-cloud-frontend/src/app/app.js",
-				"/tmp/rsub-bj3cfl/untitled",
-				"/home/caio-note/repositorios/oi-cloud-frontend/bower.json",
-				"/tmp/rsub-5pfg23/vip-ucs-auth.dev.infra.conf",
-				"/tmp/rsub-ceeyna/.bashrc",
-				"/tmp/rsub-vbz2q4/oimail.oidev.com.br.conf",
-				"/tmp/rsub-wu1voz/run.sh",
-				"/home/caio-note/Área de Trabalho/autenticacao/index.html",
-				"/tmp/rsub-_a3o61/sshd_config",
-				"/tmp/rsub-f72ybt/fstab",
-				"/home/caio-note/Área de Trabalho/oimail.oidev.com.br.conf",
-				"/tmp/rsub-m91m4o/oimail.oidev.com.br.conf",
-				"/home/caio-note/.ssh/known_hosts",
-				"/home/caio-note/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/gulpfile.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/assets/css/all.css",
-				"/home/caio-note/Área de Trabalho/um.html",
-				"/home/caio-note/.profile",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02/brturbo.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view-dois.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/navbar.css",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/tdu/conteudo-tdu.html",
-				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/index.html",
-				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nvr/data/termos-de-uso.json",
-				"/home/caio-note/Downloads/index(2).html",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/intervencao-oimail.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/novoarquivo.js",
-				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/respond.min.js",
-				"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite/scss/all.scss",
-				"/home/caio-note/repositorios/front-end/email-mkt/cobilling-abradi/abradi.html",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/teaser-migracao/teaser-migracao.html",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nve/pagina-construcao/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/fonts/fonts.css",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/css/vitrine.css",
-				"/home/caio-note/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
-				"/home/caio-note/Área de Trabalho/uuuu.html",
-				"/home/caio-note/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boas-vindas-novos.html",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boas-vindas-novos/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boasvindas/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boasvindas.html",
-				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415.html",
-				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415",
-				"/tmp/.fr-MyHYce/index.html",
-				"/home/caio-note/Área de Trabalho/backup-webdav/Oi_termos_de_uso.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/assets/css/estilo.css",
-				"/home/caio-note/Área de Trabalho/form/index(1).html",
-				"/etc/nginx/conf.d/form.conf",
-				"/etc/nginx/sites-enabled/default",
-				"/etc/nginx/conf.d/sites-available.conf",
-				"/etc/nginx/nginx.conf",
-				"/etc/nginx/conf.d/sites-available.txt",
-				"/etc/nginx/sites-available/default",
-				"/etc/nginx/sites-available.text",
-				"/home/caio-note/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
-				"/home/caio-note/.config/sublime-text-3/Packages/Stupid Indent/Stupid Indent.sublime-settings",
-				"/home/caio-note/.config/sublime-text-3/Packages/User/Stupid Indent.sublime-settings",
-				"/home/caio-note/Área de Trabalho/form/assets/css/style.css",
-				"/home/caio-note/Área de Trabalho/form/formulario.html",
-				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/estilo.css",
-				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/formulario.html",
-				"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite/index.html"
+				"/media/all_devs/35/dev_bin/folhainvest/,",
+				"/media/all_devs/35/common/classes/moss/cte_xml_zip_export_robot.class.php",
+				"/home/caio/.config/sublime-text-3/Packages/Terminality/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/media/all_devs/35/common/classes/moss/delivery_cancelled_mails.class.php",
+				"/media/all_devs/35/common/classes/moss/delivery_protocol_robot.class.php",
+				"/home/caio/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+				"/home/caio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/media/all_devs/35/moss.corp.folha.com.br/scripts/delivery_free_controller.class.php",
+				"/media/all_devs/35/common/classes/nfephp/libs/CTeNFePHP.class.php",
+				"/media/all_devs/35/common/classes/moss/config.inc.php",
+				"/media/all_devs/35/common/classes/moss/branch.class.php",
+				"/media/all_devs/35/common/classes/moss/lists.inc.php",
+				"/media/all_devs/35/common/classes/moss/cte_generator.class.php",
+				"/media/all_devs/35/common/classes/moss/transport.class.php",
+				"/media/all_devs/35/common/classes/moss/delivery.class.php",
+				"/media/all_devs/35/common/classes/moss/sefaz_xml_sender_robot.class.php",
+				"/media/all_devs/35/common/classes/moss/cte_transport_unit.class.php",
+				"/media/all_devs/35/moss.corp.folha.com.br/scripts/followup_controller.class.php",
+				"/media/all_devs/35/moss",
+				"/media/all_devs/35/columbus/src/jobs/exceptions.php",
+				"/media/all_devs/35/columbus/src/common/classes/config.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/util.inc.php",
+				"/media/all_devs/35/boilerplate.corp.folha.com.br/webapp/admin/scripts/report_queue_controller.class.php",
+				"/media/all_devs/35/common/classes/boilerplate/util.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/scripts/request_service_controller.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/copies_report.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_types.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_date.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/user_role.class.php",
+				"/media/all_devs/35/common/classes/checkpoint/service.class.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/furniture/app.js",
+				"/media/all_devs/35/logan.corp.folha.com.br/templates/enhance_registry_print.inc.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/scripts/report_controller.class.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/dev_bin/logan/06_inconsistency_cleaner/fix_customer_activity_sector_id.php",
+				"/media/all_devs/35/dev_bin/logan/06_inconsistency_cleaner/inconsistency_cleaner.php",
+				"/media/all_devs/35/columbus/src/admin/columbus.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/report_robot.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/report_queue.class.php",
+				"/media/all_devs/35/marcie/src/jobs/reports.php",
+				"/media/all_devs/35/marcie/src/common/classes/request_service.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/report.class.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/report_queue_listing.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/init.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/config.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/repoorts.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/index.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/report_queue_update.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/config.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/context.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/register",
+				"/media/all_devs/35/checkpoint/src/common/classes/user.class.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/service.class.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/util.inc.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/application.class.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/header.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/register.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/user_details.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/answer.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/index.php",
+				"/home/caio/Área de Trabalho/Documentaçõs/empreendedor",
+				"/home/caio/docs/teste.apib",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/index.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_listing.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/form_file.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/answer_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_types.class.php",
+				"/var/www/html/empreendedor/form-novo.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/spreadsheet.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/spreadsheet.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_http_client.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_robot_notify.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/robot/spreadsheet_robot.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/context.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/upload_file.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/upload_form_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/upload_form_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_html_helper.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_render.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/log/html_helper.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/IOFactory.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/events.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_util.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_event.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel5.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Style.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/Date.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Style/NumberFormat.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/base_model.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/answer_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/index.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/api_key.class.php",
+				"/media/all_devs/35/empreendedorsocial/composer.json",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_classmap.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_real.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_psr4.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_namespaces.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_files.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/composer.json",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/api/token_auth.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/answer_controller.class.php"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
-				"height": 108.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"",
+					"*.php",
 					""
 				]
 			},
@@ -605,134 +535,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"con",
-					"conta",
-					"box-ce",
-					"            \n",
-					"cover",
-					".log",
-					"log",
-					"consol",
-					"console",
-					">\n",
-					"boxes",
-					"boxe",
-					"boxes",
-					"{\n",
-					"box-login-general",
-					"form-login",
-					"confirmail",
-					"upp",
-					"listFiles",
-					"modalTermoUsoTdu",
-					"modalE",
-					"modalErro",
-					"contrato",
-					"box",
-					"output",
-					"printWorkingDirectory",
-					"Set",
-					"set",
-					"remoteDirectory",
-					"logou",
-					"dow",
-					"dowlo",
-					"output",
-					"retri",
-					"showErrorModal",
-					"hiddenUrl",
-					"error",
-					"modalErro",
-					"auto",
-					"50px",
-					"SEGURA",
-					"34110331\"",
-					"porf",
-					"por",
-					"btnImp",
-					"btmImp",
-					"},\n",
-					"modal-termo-checkbox",
-					"#button-tdu",
-					"load",
-					"loading",
-					"#loading",
-					"termo",
-					"moda",
-					"polyfill",
-					"louisremi/background-size-polyfill",
-					".close",
-					"modalTermo",
-					"modalTermoUso",
-					"modalTermo",
-					"modalTermoUso",
-					"modal",
-					"modal-open",
-					".modal-open",
-					"class=\"imprimir\"",
-					"defaultErrorMessage",
-					"iframe",
-					"print",
-					"imp",
-					"hid",
-					"yello",
-					"F9B715",
-					"tdu",
-					"golden-box",
-					"golde",
-					"main",
-					"black",
-					"black\n",
-					"57",
-					"conteudo-principal",
-					"108px",
-					"myModal",
-					"veja",
-					"<br",
-					"br",
-					"xs",
-					"-lg",
-					"config-mobile",
-					"veja como",
-					"tdu",
-					"btn",
-					"        $('#",
-					"};\n",
-					"}\n",
-					"});\n",
-					"change-me",
-					"appView",
-					"input",
-					"true",
-					"Inclua",
-					"inclua",
-					"confirmail",
-					"modal-back",
-					"bootstrap-validator",
-					"400px",
-					"\n}",
-					"FF0000",
-					"errors",
-					"error",
-					"tdu",
-					"class=\"termo-de-uso\"",
-					"termo-de-uso",
-					"interne",
-					"serviços para",
-					"termo",
-					"btn",
-					"_",
-					"modalTermoUso",
-					"targe",
-					"modal",
-					"my",
-					"btn",
-					" />",
-					"teste1",
-					"teste1\n",
-					"valida",
-					"btn-block",
-					"#login"
+					"line",
+					"{\"highlight_line",
+					"{\"highlight_line\": true",
+					"{\"highlight_line\": true}",
+					"58818022000143",
+					"rio",
+					"matriz",
+					"get_deliveries",
+					"id",
+					"get_directory_structure",
+					"get_zip",
+					"ínicio",
+					"start",
+					"uf_start",
+					"uf_ini",
+					"cMunFim",
+					"city_start_code",
+					"cod_mun_ini",
+					"DATA_DIRECTORY",
+					"dump",
+					"var_dump",
+					"exit",
+					"die",
+					"start",
+					"get_deliveries_detail",
+					"date_start",
+					"get_deliveries_detail",
+					"ctes",
+					"var_dump",
+					"Forcar a geracao dos arquivos",
+					"Forcar a geracao dos ",
+					"Forcar a geracao dos arquivos",
+					"OPTION_BRANCH",
+					"OPTION_DATE",
+					"const",
+					"OPTION_BRANCH",
+					"solicita_cte",
+					"DATA_DIRECTORY",
+					"save_file_list",
+					"filter_params",
+					"OPTION_STEP_ROBOT",
+					"sql",
+					"swl",
+					"mysql",
+					"msql",
+					"iso",
+					"format_date",
+					"as_",
+					"as_iso_datetime",
+					"date( \"Y-m",
+					"date(",
+					"s",
+					"create",
+					"\"valid\" => \"spiffy_types::is_date\" ,",
+					"				\"valid\" => \"spiffy_types::is_date\" ,\n",
+					"\"valid\" => \"spiffy_types::is_date\" ,",
+					"start_date",
+					"function next(",
+					"next(",
+					"populate_by_company_id",
+					"_get_enhancement_services",
+					"_get_enhancement_service",
+					"_get_enhancer",
+					"$this->model_instance",
+					"select_company",
+					"save",
+					"_enhance",
+					"\n<!-- /seletor para o enriquecimento -->",
+					"field-enhance",
+					"id=\"field-enhance\"",
+					"Código SAP Cliente",
+					"enhance",
+					"valid_enhance",
+					"_enhance",
+					"select_company",
+					"enha",
+					"enhancer",
+					"after_populate_model",
+					"_enhance",
+					"new enha",
+					"password",
+					"SENHA INVALIDA",
+					"_get_enhancer",
+					"company_id",
+					"compan",
+					"\n\n",
+					"company_id",
+					"constru",
+					"new enhancer",
+					"new confie",
+					"new \\confie",
+					"new confie",
+					"AF06",
+					"compan",
+					"AF06",
+					"_get_enhancer",
+					"new confie",
+					"company_id",
+					"save_enhancement",
+					"->set( \"company",
+					"company_id",
+					"Sem empresa",
+					"enhancer",
+					"new enhancer",
+					"_get_enhancer",
+					"enriquecimento",
+					"date",
+					"creation_date",
+					"render",
+					"date",
+					"Datepicker",
+					"Perí",
+					"\nPeríodo",
+					"date",
+					"dae",
+					"Período",
+					"Papel",
+					"Período de criação",
+					"is_va",
+					"Encadernação",
+					"Encadernação e Espirais",
+					"yes_no",
+					"yes",
+					"disp",
+					"function if_null",
+					"if_null(",
+					"slug",
+					"campos "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -740,7 +670,10 @@
 				"regex": false,
 				"replace_history":
 				[
-					""
+					"->_answer_id",
+					"->_form_file",
+					"->_excel_reader",
+					"empreendedorsocial"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -750,11 +683,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 25.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 29.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -764,7 +697,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -774,8 +707,412 @@
 				"selected_items":
 				[
 					[
-						"gul",
-						"gulpfile.js"
+						"cte_",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"xml",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"cte",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"deli",
+						"delivery.class.php"
+					],
+					[
+						"config",
+						"config.inc.php"
+					],
+					[
+						"cte_generate",
+						"cte_generate.php"
+					],
+					[
+						"del",
+						"delivery.class.php"
+					],
+					[
+						"conf",
+						"config.inc.php"
+					],
+					[
+						"dele",
+						"delivery.class.php"
+					],
+					[
+						"spiffy_ty",
+						"vendor/folha/spiffy-framework/src/spiffy_types.class.php"
+					],
+					[
+						"free",
+						"scripts/delivery_free_controller.class.php"
+					],
+					[
+						"de",
+						"delivery.class.php"
+					],
+					[
+						"confi",
+						"config.inc.php"
+					],
+					[
+						"delivery",
+						"delivery.class.php"
+					],
+					[
+						"men",
+						"src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php"
+					],
+					[
+						"util",
+						"src/common/classes/util.inc.php"
+					],
+					[
+						"menu",
+						"src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php"
+					],
+					[
+						"report",
+						"src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php"
+					],
+					[
+						"spiffy_db_recordset.class.php",
+						"vendor/folha/spiffy-framework/src/spiffy_db_recordset.class.php"
+					],
+					[
+						"spiffy_t",
+						"vendor/folha/spiffy-framework/src/spiffy_types.class.php"
+					],
+					[
+						"spiffy_date_helper",
+						"vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php"
+					],
+					[
+						"spiffy_da",
+						"vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php"
+					],
+					[
+						"servi",
+						"classes/checkpoint/service.class.php"
+					],
+					[
+						"enhancer",
+						"classes/logan/enhancers/enhancer.class.php"
+					],
+					[
+						"con",
+						"scripts/config.inc.php"
+					],
+					[
+						"boa",
+						"enhancers/boavista/boavista.class.php"
+					],
+					[
+						"reques",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"report_queue",
+						"src/admin/marcie.corp.folha.com.br/templates/report_queue_listing.inc.php"
+					],
+					[
+						"listi",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"requ",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"update",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"re",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"repo",
+						"src/common/classes/report/report.class.php"
+					],
+					[
+						"lis",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"report_queue_controller",
+						"src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php"
+					],
+					[
+						"listing",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"listin",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"compa",
+						"templates/company_navigation.inc.php"
+					],
+					[
+						"spiffy_model",
+						"vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php"
+					],
+					[
+						"spiffy_control",
+						"vendor/folha/spiffy-framework/src/spiffy_controller.class.php"
+					],
+					[
+						"ans",
+						"src/common/classes/answer.class.php"
+					],
+					[
+						"form",
+						"src/common/classes/form_file.class.php"
+					],
+					[
+						"spre",
+						"src/common/classes/spreadsheet.class.php"
+					],
+					[
+						"contex",
+						"src/jobs/scripts/context.inc.php"
+					],
+					[
+						"answerupd",
+						"src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php"
+					],
+					[
+						"html_r",
+						"vendor/folha/spiffy-framework/src/spiffy_html_helper.class.php"
+					],
+					[
+						"upda",
+						"src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php"
+					],
+					[
+						"spiffy_render",
+						"vendor/folha/spiffy-framework/src/spiffy_render.class.php"
+					],
+					[
+						"html",
+						"src/common/classes/log/html_helper.class.php"
+					],
+					[
+						"event",
+						"src/common/classes/events.inc.php"
+					],
+					[
+						"base",
+						"src/common/classes/base_model.class.php"
+					],
+					[
+						"spiffymo",
+						"vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php"
+					],
+					[
+						"spiffy_robot_controller",
+						"vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php"
+					],
+					[
+						"spiffy_robo",
+						"vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php"
+					],
+					[
+						"spiffy_event.class.php",
+						"vendor/folha/spiffy-framework/src/spiffy_event.class.php"
+					],
+					[
+						"spiffy_mai",
+						"vendor/folha/spiffy-framework/src/spiffy_mail.class.php"
+					],
+					[
+						"note_con",
+						"src/api/v1/scripts/note_controller.class.php"
+					],
+					[
+						"spiffy",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"spiffy_api_controller_interface",
+						"vendor/folha/spiffy-framework/src/spiffy_api_controller_interface.class.php"
+					],
+					[
+						"spiffy_api",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"api_key",
+						"src/common/classes/api_key.class.php"
+					],
+					[
+						"note_controller",
+						"src/site/funebre.folha.com.br/scripts/note_controller.class.php"
+					],
+					[
+						"death_controller",
+						"src/api/v1/scripts/death_controller.class.php"
+					],
+					[
+						"spiffy_ap",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"an",
+						"src/common/classes/answer.class.php"
+					],
+					[
+						"inde",
+						"src/api/v1/index.php"
+					],
+					[
+						"spiffy_eve",
+						"vendor/folha/spiffy-framework/src/spiffy_event.class.php"
+					],
+					[
+						"spiffy_api_auth_interface",
+						"vendor/folha/spiffy-framework/src/spiffy_api_auth_interface.class.php"
+					],
+					[
+						"user",
+						"src/common/classes/user.class.php"
+					],
+					[
+						"spiffy_mail",
+						"vendor/folha/spiffy-framework/src/spiffy_mail.class.php"
+					],
+					[
+						"spiffy_ma",
+						"classes/spiffy_mail.class.php"
+					],
+					[
+						"req",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"use",
+						"src/common/classes/user.class.php"
+					],
+					[
+						"ini",
+						"src/admin/marcie.corp.folha.com.br/scripts/init.inc.php"
+					],
+					[
+						"conte",
+						"src/admin/marcie.corp.folha.com.br/scripts/context.inc.php"
+					],
+					[
+						"app",
+						"src/admin/marcie.corp.folha.com.br/furniture/app.js"
+					],
+					[
+						"hea",
+						"vendor/folha/spiffy-boilerplate/header.inc.php"
+					],
+					[
+						"request",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"meri",
+						"src/common/classes/meridius.class.php"
+					],
+					[
+						"in",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"ind",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"spiffy_v",
+						"vendor/folha/spiffy-framework/src/spiffy_view.class.php"
+					],
+					[
+						"",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"index",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"reque",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"reuque",
+						"src/admin/marcie.corp.folha.com.br/templates/report_queue_update.inc.php"
+					],
+					[
+						"produc",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"people",
+						"src/admin/stats.corp.folha.com.br/templates/people_update.inc.php"
+					],
+					[
+						"pro",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"product",
+						"src/admin/stats.corp.folha.com.br/templates/product_update.inc.php"
+					],
+					[
+						"peop",
+						"src/common/classes/people.class.php"
+					],
+					[
+						"produ",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"eleme",
+						"src/common/classes/element.class.php"
+					],
+					[
+						"elem",
+						"src/common/classes/element.class.php"
+					],
+					[
+						"logclas",
+						"src/common/classes/log/log.class.php"
+					],
+					[
+						"lo",
+						"src/common/classes/log/log.class.php"
+					],
+					[
+						"spi",
+						"vendor/folha/spiffy-framework/src/spiffy.class.php"
+					],
+					[
+						"spiffy_us",
+						"classes/spiffy_user.class.php"
+					],
+					[
+						"spiffy_permi",
+						"classes/spiffy_permission.class.php"
+					],
+					[
+						"spif",
+						"classes/spiffy_controller.class.php"
+					],
+					[
+						"spiffy_controller",
+						"classes/spiffy_controller.class.php"
+					],
+					[
+						"pos",
+						"webapp/admin/templates/post_update.inc.php"
 					]
 				],
 				"width": 0.0
@@ -791,18 +1128,18 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 400.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 400.0
 			},
-			"show_minimap": false,
-			"show_open_files": true,
+			"show_minimap": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 400.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -818,318 +1155,286 @@
 				"selected_items":
 				[
 					[
-						"mar",
-						"margin-top"
+						"print",
+						"print_pre〔function〕"
 					],
 					[
-						"wi",
-						"width"
+						"del",
+						"$delivery〔variable〕"
 					],
 					[
-						"va",
-						"value"
+						"deli",
+						"delivery"
 					],
 					[
-						"get",
-						"getElementById"
+						"deliv",
+						"$delivery〔variable〕"
+					],
+					[
+						"de",
+						"delivery"
+					],
+					[
+						"form",
+						"format"
+					],
+					[
+						"format",
+						"date_format"
+					],
+					[
+						"Per",
+						"Período"
+					],
+					[
+						"cus",
+						"customer_company_id"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"compan",
+						"company_id"
+					],
+					[
+						"en",
+						"enhancer"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"mo",
+						"modificação"
+					],
+					[
+						"Stat",
+						"status"
+					],
+					[
+						"span",
+						"span4"
+					],
+					[
+						"spa",
+						"span12"
+					],
+					[
+						"valid",
+						"valid_user"
+					],
+					[
+						"For",
+						"formulário"
+					],
+					[
+						"ans",
+						"answer"
+					],
+					[
+						"err",
+						"error_message_file"
 					],
 					[
 						"for",
-						"formattedText"
+						"for	for …"
 					],
 					[
-						"flo",
-						"floatToMoneyText"
+						"exc",
+						"excel_get_value"
 					],
 					[
-						"margin",
-						"margin-right"
+						"pFo",
+						"pFormatCode"
 					],
 					[
-						"text",
-						"text-align"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"paddi",
-						"padding-top"
-					],
-					[
-						"mari",
-						"margin-top"
-					],
-					[
-						"Im",
-						"important"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"margi",
-						"margin"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"b",
-						"button	<button>"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"back",
-						"background"
-					],
-					[
-						"bs-xs",
-						"bs-xxs"
-					],
-					[
-						"print",
-						"printScreen"
-					],
-					[
-						"marig",
-						"margin-top"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"con",
-						"console"
-					],
-					[
-						"c",
-						"console"
-					],
-					[
-						"sho",
-						"showError"
-					],
-					[
-						"data-",
-						"data-target"
-					],
-					[
-						"ini",
-						"inline-block"
-					],
-					[
-						"hr",
-						"href	Attr"
-					],
-					[
-						"modal",
-						"modal"
-					],
-					[
-						"moda",
-						"modalShow"
-					],
-					[
-						"mag",
-						"margin"
-					],
-					[
-						"FORMU",
-						"formulario-template"
-					],
-					[
-						"Pesqui",
-						"Pesquisa_View"
-					],
-					[
-						"paddin",
-						"padding"
-					],
-					[
-						"marin",
-						"margin"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"inli",
-						"inline"
-					],
-					[
-						"to",
-						"toggleAllComplete"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"bs",
-						"bs-xxs"
-					],
-					[
-						"in",
-						"include"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
-						"clien",
-						"Cliente"
-					],
-					[
-						"l",
-						"lorem	HTML - Lorem Ipsum"
-					],
-					[
-						"bord",
-						"border-radius"
-					],
-					[
-						"blo",
-						"block"
-					],
-					[
-						"bloc",
-						"inline-block"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"impo",
-						"important"
-					],
-					[
-						"t",
-						"tweetView"
-					],
-					[
-						"im",
-						"important"
-					],
-					[
-						"PADDI",
-						"padding-bottom"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"class",
-						"class	Attr"
+						"debug",
+						"debug_print_backtrace"
 					],
 					[
 						"fo",
-						"font-size"
+						"form_file"
 					],
 					[
-						"i",
-						"inherit"
+						"th",
+						"this"
 					],
 					[
-						"di",
-						"display"
+						"con",
+						"const"
 					],
 					[
-						"pos",
-						"position"
+						"name",
+						"name_file"
 					],
 					[
-						"magin",
-						"margin-right"
+						"send",
+						"send_mail"
 					],
 					[
-						"te",
-						"text-decoration"
+						"a",
+						"answer"
 					],
 					[
-						"TEXT",
-						"textStatus"
+						"tri",
+						"trigger_error"
 					],
 					[
-						"TEX",
-						"textStatus"
+						"re",
+						"return"
 					],
 					[
-						"conter",
-						"counter"
+						"rec",
+						"rec_clean"
 					],
 					[
-						"style",
-						"style	Attr"
+						"que",
+						"question"
 					],
 					[
-						"list",
-						"list-style"
+						"utf",
+						"imap_utf7_decode"
+					],
+					[
+						"u",
+						"utf8_decode"
+					],
+					[
+						"or",
+						"organização"
+					],
+					[
+						"Soci",
+						"Sociais"
+					],
+					[
+						"show",
+						"show_response"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"_er",
+						"_error_file_php"
+					],
+					[
+						"uplo",
+						"uploaded_file"
+					],
+					[
+						"vei",
+						"vehicle_year_id"
+					],
+					[
+						"reuq",
+						"request_service"
+					],
+					[
+						"cre",
+						"created_by"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"li",
+						"link_pronto"
+					],
+					[
+						"reques",
+						"request_service"
+					],
+					[
+						"sp",
+						"sprintf"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"ser",
+						"service_status"
+					],
+					[
+						"model",
+						"model_instance"
+					],
+					[
+						"ad",
+						"add_message_in_session"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"val",
+						"val_cancelado"
 					],
 					[
 						"font-s",
 						"font-size"
 					],
 					[
-						"cell",
-						"cellspacing	Attr"
+						"fun",
+						"function"
 					],
 					[
-						"sty",
-						"style	Attr"
+						"utf8",
+						"utf8_encode"
 					],
 					[
-						"inte",
-						"intervencao-minha-conta"
+						"per",
+						"percentComplete"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"taref",
+						"tarefa"
+					],
+					[
+						"bd",
+						"bdSenha"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+					"file": "/media/all_devs/35/dev_bin/folhainvest/gains.php",
 					"settings":
 					{
-						"buffer_size": 5045,
+						"buffer_size": 7670,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+					"file": "/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 4655,
+						"buffer_size": 5421,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 225,
 						"line_ending": "Unix"
 					}
 				}
@@ -1141,63 +1446,55 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 201.0,
-				"last_filter": "",
+				"height": 400.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
 					[
-						"insta",
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"MINI",
-						"View: Toggle Minimap"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
-						"wrap",
-						"Word Wrap: Toggle"
+						"git: s",
+						"Git: Status"
 					],
 					[
-						"html",
-						"HTML: Encode Special Characters"
+						"git",
+						"Git: Log All"
 					],
 					[
-						"meta",
-						"Snippet: HTML - Meta tags"
-					],
-					[
-						"instl",
+						"insa",
 						"Package Control: Install Package"
 					],
 					[
-						"",
-						"About"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
-						"instal",
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 521.0
+				"width": 601.0
 			},
 			"console":
 			{
 				"height": 139.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -1211,150 +1508,152 @@
 			},
 			"expanded_folders":
 			[
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass"
+				"/media/all_devs/35/dev_bin/folhainvest",
+				"/media/all_devs/35/dev_bin/folhainvest/prod",
+				"/media/all_devs/35/dev_bin/folhainvest/prod/proc"
 			],
 			"file_history":
 			[
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/navbar.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-mixins.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/userlogin.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/html/index.html",
-				"/etc/hosts",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/index.html",
-				"/home/caio-note/repositorios/oi-email-auth/auth-statics/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/tdu-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/router.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/app.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/models/app-model.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/css/ie.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
-				"/etc/host.conf",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/humans.txt",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/robots.txt",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/novo-clientes-05/novos-clientes.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/less/bootstrap/variables.less",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-fonts.scss",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/index.html",
-				"/home/caio-note/repositorios/nodejs/olanode.js",
-				"/home/caio-note/repositorios/nodejs/frase.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/ie.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/userlogin.css",
-				"/home/caio-note/.bashrc",
-				"/tmp/planilha.csv",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/background-size-polyfill/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery.print/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/images/bg-autenticacao-mobile.jpg",
-				"/tmp/.fr-L9wrIE/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/jQuery-ajaxTransport-XDomainRequest/.bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/_bootstrap-custom.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/bootstrap.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/scss/base/_markup-mixins.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/app-view.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/boasvindas.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boasvindas/assets/css/estilo.css",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/templates/tdu.html",
-				"/tmp/rsub-5bp2p4/app-view.js",
-				"/tmp/rsub-__pk56/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/js/views/app-view.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/bower.json",
-				"/home/caio-note/Área de Trabalho/autenticacao/v-2/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap-validator/.bower.json",
-				"/home/caio-note/Área de Trabalho/Caio-deploy/erroemail.html",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/404.html",
-				"/home/caio-note/repositorios/oi-email-auth/auth-statics/assets/js/views/app-view.js",
-				"/home/caio-note/Área de Trabalho/Caio-deploy/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/instabilidade.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/,",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/bower_components/bootstrap/bower.json",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/_oi-colors.scss",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/boas-vindas-novos/assets/estilo.css",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/boas-vindas-03/boas-vindas.html",
-				"/tmp/rsub-715856/auth-proxy",
-				"/home/caio-note/.ssh/config",
-				"/tmp/rsub-vnsrs7/vip-ucs-auth.dev.infra.conf",
-				"/home/caio-note/repositorios/oi-cloud-frontend/src/app/app.js",
-				"/tmp/rsub-bj3cfl/untitled",
-				"/home/caio-note/repositorios/oi-cloud-frontend/bower.json",
-				"/tmp/rsub-5pfg23/vip-ucs-auth.dev.infra.conf",
-				"/tmp/rsub-ceeyna/.bashrc",
-				"/tmp/rsub-vbz2q4/oimail.oidev.com.br.conf",
-				"/tmp/rsub-wu1voz/run.sh",
-				"/home/caio-note/Área de Trabalho/autenticacao/index.html",
-				"/tmp/rsub-_a3o61/sshd_config",
-				"/tmp/rsub-f72ybt/fstab",
-				"/home/caio-note/Área de Trabalho/oimail.oidev.com.br.conf",
-				"/tmp/rsub-m91m4o/oimail.oidev.com.br.conf",
-				"/home/caio-note/.ssh/known_hosts",
-				"/home/caio-note/.config/sublime-text-3/Packages/rsub/rsub.sublime-settings",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/gulpfile.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/assets/css/all.css",
-				"/home/caio-note/Área de Trabalho/um.html",
-				"/home/caio-note/.profile",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/lembrete-02/brturbo.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/app/views/app-view-dois.js",
-				"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/dist/assets/css/navbar.css",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/construcao/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/tdu/conteudo-tdu.html",
-				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/index.html",
-				"/home/caio-note/repositorios/workspace-dev/hotsite-provas/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nvr/data/termos-de-uso.json",
-				"/home/caio-note/Downloads/index(2).html",
-				"/home/caio-note/repositorios/front-end/migracao-email/oi-mail-hotsite/index.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/intervencao-oimail.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/novoarquivo.js",
-				"/home/caio-note/repositorios/workspace-dev/nova-versao-hotsite/oi-mail-hotsite/assets/js/lib/respond.min.js",
-				"/home/caio-note/repositorios/workspace-dev/oi-mail-hotsite/scss/all.scss",
-				"/home/caio-note/repositorios/front-end/email-mkt/cobilling-abradi/abradi.html",
-				"/home/caio-note/repositorios/front-end/email-mkt/migracao-email/teaser-migracao/teaser-migracao.html",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/nve/pagina-construcao/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/pagina-em-construcao/assets/fonts/fonts.css",
-				"/home/caio-note/repositorios/hanoi-loja-componentes/statics/nve/css/vitrine.css",
-				"/home/caio-note/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
-				"/home/caio-note/Área de Trabalho/uuuu.html",
-				"/home/caio-note/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boas-vindas-novos.html",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boas-vindas-novos/assets/css/estilo.css",
-				"/run/user/1000/gvfs/dav:host=upload.oiweb.co,ssl=true/static/intervencao/boasvindas/assets/css/estilo.css",
-				"/home/caio-note/repositorios/workspace-dev/boas-vindas-novos/boasvindas.html",
-				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415.html",
-				"/home/caio-note/repositorios/workspace-dev/emal-ale/OIT009415",
-				"/tmp/.fr-MyHYce/index.html",
-				"/home/caio-note/Área de Trabalho/backup-webdav/Oi_termos_de_uso.html",
-				"/home/caio-note/repositorios/front-end/migracao-email/telas-intervevncao/instabilidade/assets/css/estilo.css",
-				"/home/caio-note/Área de Trabalho/form/index(1).html",
-				"/etc/nginx/conf.d/form.conf",
-				"/etc/nginx/sites-enabled/default",
-				"/etc/nginx/conf.d/sites-available.conf",
-				"/etc/nginx/nginx.conf",
-				"/etc/nginx/conf.d/sites-available.txt",
-				"/etc/nginx/sites-available/default",
-				"/etc/nginx/sites-available.text",
-				"/home/caio-note/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
-				"/home/caio-note/.config/sublime-text-3/Packages/Stupid Indent/Stupid Indent.sublime-settings",
-				"/home/caio-note/.config/sublime-text-3/Packages/User/Stupid Indent.sublime-settings",
-				"/home/caio-note/Área de Trabalho/form/assets/css/style.css",
-				"/home/caio-note/Área de Trabalho/form/formulario.html",
-				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/estilo.css",
-				"/home/caio-note/arquivos-pc-antigo/novo/Caio Arquivos/bootstrap/formulario.html",
-				"/home/caio-note/Área de Trabalho/Ale/oi-mail-hotsite/index.html"
+				"/media/all_devs/35/dev_bin/folhainvest/scripts/config.inc.php",
+				"/media/all_devs/35/dev_bin/folhainvest/scripts/clpop3.inc.php",
+				"/media/all_devs/35/dev_bin/folhainvest/,",
+				"/media/all_devs/35/common/classes/moss/cte_xml_zip_export_robot.class.php",
+				"/home/caio/.config/sublime-text-3/Packages/Terminality/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/media/all_devs/35/common/classes/moss/delivery_cancelled_mails.class.php",
+				"/media/all_devs/35/common/classes/moss/delivery_protocol_robot.class.php",
+				"/home/caio/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/caio/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+				"/home/caio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/media/all_devs/35/moss.corp.folha.com.br/scripts/delivery_free_controller.class.php",
+				"/media/all_devs/35/common/classes/nfephp/libs/CTeNFePHP.class.php",
+				"/media/all_devs/35/common/classes/moss/config.inc.php",
+				"/media/all_devs/35/common/classes/moss/branch.class.php",
+				"/media/all_devs/35/common/classes/moss/lists.inc.php",
+				"/media/all_devs/35/common/classes/moss/cte_generator.class.php",
+				"/media/all_devs/35/common/classes/moss/transport.class.php",
+				"/media/all_devs/35/common/classes/moss/delivery.class.php",
+				"/media/all_devs/35/common/classes/moss/sefaz_xml_sender_robot.class.php",
+				"/media/all_devs/35/common/classes/moss/cte_transport_unit.class.php",
+				"/media/all_devs/35/moss.corp.folha.com.br/scripts/followup_controller.class.php",
+				"/media/all_devs/35/moss",
+				"/media/all_devs/35/columbus/src/jobs/exceptions.php",
+				"/media/all_devs/35/columbus/src/common/classes/config.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/util.inc.php",
+				"/media/all_devs/35/boilerplate.corp.folha.com.br/webapp/admin/scripts/report_queue_controller.class.php",
+				"/media/all_devs/35/common/classes/boilerplate/util.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/scripts/request_service_controller.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/copies_report.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_types.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php",
+				"/media/all_devs/35/marcie/vendor/folha/spiffy-framework/src/spiffy_date.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/user_role.class.php",
+				"/media/all_devs/35/common/classes/checkpoint/service.class.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/furniture/app.js",
+				"/media/all_devs/35/logan.corp.folha.com.br/templates/enhance_registry_print.inc.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/scripts/report_controller.class.php",
+				"/media/all_devs/35/logan.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/dev_bin/logan/06_inconsistency_cleaner/fix_customer_activity_sector_id.php",
+				"/media/all_devs/35/dev_bin/logan/06_inconsistency_cleaner/inconsistency_cleaner.php",
+				"/media/all_devs/35/columbus/src/admin/columbus.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/report_robot.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/report_queue.class.php",
+				"/media/all_devs/35/marcie/src/jobs/reports.php",
+				"/media/all_devs/35/marcie/src/common/classes/request_service.class.php",
+				"/media/all_devs/35/marcie/src/common/classes/report/report.class.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/report_queue_listing.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/init.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/config.inc.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/repoorts.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/index.php",
+				"/media/all_devs/35/marcie/src/admin/marcie.corp.folha.com.br/templates/report_queue_update.inc.php",
+				"/media/all_devs/35/marcie/src/common/classes/config.inc.php",
+				"/media/all_devs/35/marcie/src/jobs/scripts/context.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/register",
+				"/media/all_devs/35/checkpoint/src/common/classes/user.class.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/service.class.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/util.inc.php",
+				"/media/all_devs/35/checkpoint/src/common/classes/application.class.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/header.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/register.inc.php",
+				"/media/all_devs/35/checkpoint/src/site/checkpoint.folha.com.br/skins/folha/user_details.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/answer.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/index.php",
+				"/home/caio/Área de Trabalho/Documentaçõs/empreendedor",
+				"/home/caio/docs/teste.apib",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/index.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_listing.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/form_file.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/answer_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_types.class.php",
+				"/var/www/html/empreendedor/form-novo.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/spreadsheet.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/spreadsheet.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_http_client.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_robot_notify.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/robot/spreadsheet_robot.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/context.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/admin/empreendedorsocial.corp.folha.com.br/scripts/init.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/upload_file.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/upload_form_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/jobs/scripts/config.inc.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/scripts/upload_form_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_html_helper.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_render.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/log/html_helper.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/IOFactory.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/events.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_util.inc.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/folha/spiffy-framework/src/spiffy_event.class.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel5.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Style.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/Date.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel/Style/NumberFormat.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/base_model.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/api/v1/scripts/answer_controller.class.php",
+				"/media/all_devs/35/empreendedorsocial/src/site/empreendedorsocial.folha.com.br/index.php",
+				"/media/all_devs/35/empreendedorsocial/src/common/classes/api_key.class.php",
+				"/media/all_devs/35/empreendedorsocial/composer.json",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_classmap.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/Classes/PHPExcel.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_real.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_psr4.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_namespaces.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/composer/autoload_files.php",
+				"/media/all_devs/35/empreendedorsocial/vendor/phpoffice/phpexcel/composer.json"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 108.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"",
+					"*.php",
 					""
 				]
 			},
@@ -1363,134 +1662,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"con",
-					"conta",
-					"box-ce",
-					"            \n",
-					"cover",
-					".log",
-					"log",
-					"consol",
-					"console",
-					">\n",
-					"boxes",
-					"boxe",
-					"boxes",
-					"{\n",
-					"box-login-general",
-					"form-login",
-					"confirmail",
-					"upp",
-					"listFiles",
-					"modalTermoUsoTdu",
-					"modalE",
-					"modalErro",
-					"contrato",
-					"box",
-					"output",
-					"printWorkingDirectory",
-					"Set",
-					"set",
-					"remoteDirectory",
-					"logou",
-					"dow",
-					"dowlo",
-					"output",
-					"retri",
-					"showErrorModal",
-					"hiddenUrl",
-					"error",
-					"modalErro",
-					"auto",
-					"50px",
-					"SEGURA",
-					"34110331\"",
-					"porf",
-					"por",
-					"btnImp",
-					"btmImp",
-					"},\n",
-					"modal-termo-checkbox",
-					"#button-tdu",
-					"load",
-					"loading",
-					"#loading",
-					"termo",
-					"moda",
-					"polyfill",
-					"louisremi/background-size-polyfill",
-					".close",
-					"modalTermo",
-					"modalTermoUso",
-					"modalTermo",
-					"modalTermoUso",
-					"modal",
-					"modal-open",
-					".modal-open",
-					"class=\"imprimir\"",
-					"defaultErrorMessage",
-					"iframe",
+					"PROD_D111214",
+					"exit",
+					"die",
 					"print",
-					"imp",
-					"hid",
-					"yello",
-					"F9B715",
-					"tdu",
-					"golden-box",
-					"golde",
-					"main",
-					"black",
-					"black\n",
-					"57",
-					"conteudo-principal",
-					"108px",
-					"myModal",
-					"veja",
-					"<br",
-					"br",
-					"xs",
-					"-lg",
-					"config-mobile",
-					"veja como",
-					"tdu",
-					"btn",
-					"        $('#",
-					"};\n",
-					"}\n",
-					"});\n",
-					"change-me",
-					"appView",
-					"input",
-					"true",
-					"Inclua",
-					"inclua",
-					"confirmail",
-					"modal-back",
-					"bootstrap-validator",
-					"400px",
-					"\n}",
-					"FF0000",
-					"errors",
-					"error",
-					"tdu",
-					"class=\"termo-de-uso\"",
-					"termo-de-uso",
-					"interne",
-					"serviços para",
-					"termo",
-					"btn",
-					"_",
-					"modalTermoUso",
-					"targe",
-					"modal",
-					"my",
-					"btn",
-					" />",
-					"teste1",
-					"teste1\n",
-					"valida",
-					"btn-block",
-					"#login"
+					"print_r",
+					"print_pre",
+					"function checkdate",
+					"checkdate",
+					"Nothing to apply",
+					"command_line_values",
+					" Nothing to apply",
+					"pop3_email",
+					"mail",
+					"@",
+					"pop3_email",
+					"line",
+					"{\"highlight_line",
+					"{\"highlight_line\": true",
+					"{\"highlight_line\": true}",
+					"58818022000143",
+					"rio",
+					"matriz",
+					"get_deliveries",
+					"id",
+					"get_directory_structure",
+					"get_zip",
+					"ínicio",
+					"start",
+					"uf_start",
+					"uf_ini",
+					"cMunFim",
+					"city_start_code",
+					"cod_mun_ini",
+					"DATA_DIRECTORY",
+					"dump",
+					"var_dump",
+					"exit",
+					"die",
+					"start",
+					"get_deliveries_detail",
+					"date_start",
+					"get_deliveries_detail",
+					"ctes",
+					"var_dump",
+					"Forcar a geracao dos arquivos",
+					"Forcar a geracao dos ",
+					"Forcar a geracao dos arquivos",
+					"OPTION_BRANCH",
+					"OPTION_DATE",
+					"const",
+					"OPTION_BRANCH",
+					"solicita_cte",
+					"DATA_DIRECTORY",
+					"save_file_list",
+					"filter_params",
+					"OPTION_STEP_ROBOT",
+					"sql",
+					"swl",
+					"mysql",
+					"msql",
+					"iso",
+					"format_date",
+					"as_",
+					"as_iso_datetime",
+					"date( \"Y-m",
+					"date(",
+					"s",
+					"create",
+					"\"valid\" => \"spiffy_types::is_date\" ,",
+					"				\"valid\" => \"spiffy_types::is_date\" ,\n",
+					"\"valid\" => \"spiffy_types::is_date\" ,",
+					"start_date",
+					"function next(",
+					"next(",
+					"populate_by_company_id",
+					"_get_enhancement_services",
+					"_get_enhancement_service",
+					"_get_enhancer",
+					"$this->model_instance",
+					"select_company",
+					"save",
+					"_enhance",
+					"\n<!-- /seletor para o enriquecimento -->",
+					"field-enhance",
+					"id=\"field-enhance\"",
+					"Código SAP Cliente",
+					"enhance",
+					"valid_enhance",
+					"_enhance",
+					"select_company",
+					"enha",
+					"enhancer",
+					"after_populate_model",
+					"_enhance",
+					"new enha",
+					"password",
+					"SENHA INVALIDA",
+					"_get_enhancer",
+					"company_id",
+					"compan",
+					"\n\n",
+					"company_id",
+					"constru",
+					"new enhancer",
+					"new confie",
+					"new \\confie",
+					"new confie",
+					"AF06",
+					"compan",
+					"AF06",
+					"_get_enhancer",
+					"new confie",
+					"company_id",
+					"save_enhancement",
+					"->set( \"company",
+					"company_id",
+					"Sem empresa",
+					"enhancer",
+					"new enhancer",
+					"_get_enhancer",
+					"enriquecimento",
+					"date",
+					"creation_date",
+					"render",
+					"date",
+					"Datepicker",
+					"Perí",
+					"\nPeríodo"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1498,7 +1797,10 @@
 				"regex": false,
 				"replace_history":
 				[
-					""
+					"->_answer_id",
+					"->_form_file",
+					"->_excel_reader",
+					"empreendedorsocial"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1509,7 +1811,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail"
+					"path": "/media/all_devs/35/dev_bin/folhainvest"
 				}
 			],
 			"groups":
@@ -1520,88 +1822,29 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/index.scss",
+							"file": "/media/all_devs/35/dev_bin/folhainvest/gains.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5045,
+								"buffer_size": 7670,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1749,
-										1749
+										6501,
+										6501
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1140.0,
+								"translation.y": 306.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1609,11 +1852,11 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/src/sass/tdu.scss",
+							"file": "/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4655,
+								"buffer_size": 5421,
 								"regions":
 								{
 								},
@@ -1626,74 +1869,43 @@
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1275.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/caio/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1701,11 +1913,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 25.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 29.0
 			},
 			"layout":
 			{
@@ -1735,11 +1947,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,2308,414,2948,894,3286,1080",
+			"position": "0,1,0,0,0,0,0,0,0,3200,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1749,8 +1961,420 @@
 				"selected_items":
 				[
 					[
-						"gul",
-						"gulpfile.js"
+						"clpop3",
+						"scripts/clpop3.inc.php"
+					],
+					[
+						"gains",
+						"gains.php"
+					],
+					[
+						"cte_",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"xml",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"cte",
+						"cte_xml_zip_export_robot.class.php"
+					],
+					[
+						"deli",
+						"delivery.class.php"
+					],
+					[
+						"config",
+						"config.inc.php"
+					],
+					[
+						"cte_generate",
+						"cte_generate.php"
+					],
+					[
+						"del",
+						"delivery.class.php"
+					],
+					[
+						"conf",
+						"config.inc.php"
+					],
+					[
+						"dele",
+						"delivery.class.php"
+					],
+					[
+						"spiffy_ty",
+						"vendor/folha/spiffy-framework/src/spiffy_types.class.php"
+					],
+					[
+						"free",
+						"scripts/delivery_free_controller.class.php"
+					],
+					[
+						"de",
+						"delivery.class.php"
+					],
+					[
+						"confi",
+						"config.inc.php"
+					],
+					[
+						"delivery",
+						"delivery.class.php"
+					],
+					[
+						"men",
+						"src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php"
+					],
+					[
+						"util",
+						"src/common/classes/util.inc.php"
+					],
+					[
+						"menu",
+						"src/admin/marcie.corp.folha.com.br/templates/menu_items.inc.php"
+					],
+					[
+						"report",
+						"src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php"
+					],
+					[
+						"spiffy_db_recordset.class.php",
+						"vendor/folha/spiffy-framework/src/spiffy_db_recordset.class.php"
+					],
+					[
+						"spiffy_t",
+						"vendor/folha/spiffy-framework/src/spiffy_types.class.php"
+					],
+					[
+						"spiffy_date_helper",
+						"vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php"
+					],
+					[
+						"spiffy_da",
+						"vendor/folha/spiffy-framework/src/spiffy_date_helper.class.php"
+					],
+					[
+						"servi",
+						"classes/checkpoint/service.class.php"
+					],
+					[
+						"enhancer",
+						"classes/logan/enhancers/enhancer.class.php"
+					],
+					[
+						"con",
+						"scripts/config.inc.php"
+					],
+					[
+						"boa",
+						"enhancers/boavista/boavista.class.php"
+					],
+					[
+						"reques",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"report_queue",
+						"src/admin/marcie.corp.folha.com.br/templates/report_queue_listing.inc.php"
+					],
+					[
+						"listi",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"requ",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"update",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"re",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"repo",
+						"src/common/classes/report/report.class.php"
+					],
+					[
+						"lis",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"report_queue_controller",
+						"src/admin/marcie.corp.folha.com.br/scripts/report_queue_controller.class.php"
+					],
+					[
+						"listing",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"listin",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_listing.inc.php"
+					],
+					[
+						"compa",
+						"templates/company_navigation.inc.php"
+					],
+					[
+						"spiffy_model",
+						"vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php"
+					],
+					[
+						"spiffy_control",
+						"vendor/folha/spiffy-framework/src/spiffy_controller.class.php"
+					],
+					[
+						"ans",
+						"src/common/classes/answer.class.php"
+					],
+					[
+						"form",
+						"src/common/classes/form_file.class.php"
+					],
+					[
+						"spre",
+						"src/common/classes/spreadsheet.class.php"
+					],
+					[
+						"contex",
+						"src/jobs/scripts/context.inc.php"
+					],
+					[
+						"answerupd",
+						"src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php"
+					],
+					[
+						"html_r",
+						"vendor/folha/spiffy-framework/src/spiffy_html_helper.class.php"
+					],
+					[
+						"upda",
+						"src/admin/empreendedorsocial.corp.folha.com.br/templates/answer_update.inc.php"
+					],
+					[
+						"spiffy_render",
+						"vendor/folha/spiffy-framework/src/spiffy_render.class.php"
+					],
+					[
+						"html",
+						"src/common/classes/log/html_helper.class.php"
+					],
+					[
+						"event",
+						"src/common/classes/events.inc.php"
+					],
+					[
+						"base",
+						"src/common/classes/base_model.class.php"
+					],
+					[
+						"spiffymo",
+						"vendor/folha/spiffy-framework/src/spiffy_model_2_0.class.php"
+					],
+					[
+						"spiffy_robot_controller",
+						"vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php"
+					],
+					[
+						"spiffy_robo",
+						"vendor/folha/spiffy-framework/src/spiffy_robot_controller.class.php"
+					],
+					[
+						"spiffy_event.class.php",
+						"vendor/folha/spiffy-framework/src/spiffy_event.class.php"
+					],
+					[
+						"spiffy_mai",
+						"vendor/folha/spiffy-framework/src/spiffy_mail.class.php"
+					],
+					[
+						"note_con",
+						"src/api/v1/scripts/note_controller.class.php"
+					],
+					[
+						"spiffy",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"spiffy_api_controller_interface",
+						"vendor/folha/spiffy-framework/src/spiffy_api_controller_interface.class.php"
+					],
+					[
+						"spiffy_api",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"api_key",
+						"src/common/classes/api_key.class.php"
+					],
+					[
+						"note_controller",
+						"src/site/funebre.folha.com.br/scripts/note_controller.class.php"
+					],
+					[
+						"death_controller",
+						"src/api/v1/scripts/death_controller.class.php"
+					],
+					[
+						"spiffy_ap",
+						"vendor/folha/spiffy-framework/src/spiffy_api.class.php"
+					],
+					[
+						"an",
+						"src/common/classes/answer.class.php"
+					],
+					[
+						"inde",
+						"src/api/v1/index.php"
+					],
+					[
+						"spiffy_eve",
+						"vendor/folha/spiffy-framework/src/spiffy_event.class.php"
+					],
+					[
+						"spiffy_api_auth_interface",
+						"vendor/folha/spiffy-framework/src/spiffy_api_auth_interface.class.php"
+					],
+					[
+						"user",
+						"src/common/classes/user.class.php"
+					],
+					[
+						"spiffy_mail",
+						"vendor/folha/spiffy-framework/src/spiffy_mail.class.php"
+					],
+					[
+						"spiffy_ma",
+						"classes/spiffy_mail.class.php"
+					],
+					[
+						"req",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"use",
+						"src/common/classes/user.class.php"
+					],
+					[
+						"ini",
+						"src/admin/marcie.corp.folha.com.br/scripts/init.inc.php"
+					],
+					[
+						"conte",
+						"src/admin/marcie.corp.folha.com.br/scripts/context.inc.php"
+					],
+					[
+						"app",
+						"src/admin/marcie.corp.folha.com.br/furniture/app.js"
+					],
+					[
+						"hea",
+						"vendor/folha/spiffy-boilerplate/header.inc.php"
+					],
+					[
+						"request",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"meri",
+						"src/common/classes/meridius.class.php"
+					],
+					[
+						"in",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"ind",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"spiffy_v",
+						"vendor/folha/spiffy-framework/src/spiffy_view.class.php"
+					],
+					[
+						"",
+						"src/admin/marcie.corp.folha.com.br/templates/request_service_update.inc.php"
+					],
+					[
+						"index",
+						"src/admin/marcie.corp.folha.com.br/index.php"
+					],
+					[
+						"reque",
+						"src/common/classes/request_service.class.php"
+					],
+					[
+						"reuque",
+						"src/admin/marcie.corp.folha.com.br/templates/report_queue_update.inc.php"
+					],
+					[
+						"produc",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"people",
+						"src/admin/stats.corp.folha.com.br/templates/people_update.inc.php"
+					],
+					[
+						"pro",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"product",
+						"src/admin/stats.corp.folha.com.br/templates/product_update.inc.php"
+					],
+					[
+						"peop",
+						"src/common/classes/people.class.php"
+					],
+					[
+						"produ",
+						"src/common/classes/product.class.php"
+					],
+					[
+						"eleme",
+						"src/common/classes/element.class.php"
+					],
+					[
+						"elem",
+						"src/common/classes/element.class.php"
+					],
+					[
+						"logclas",
+						"src/common/classes/log/log.class.php"
+					],
+					[
+						"lo",
+						"src/common/classes/log/log.class.php"
+					],
+					[
+						"spi",
+						"vendor/folha/spiffy-framework/src/spiffy.class.php"
+					],
+					[
+						"spiffy_us",
+						"classes/spiffy_user.class.php"
+					],
+					[
+						"spiffy_permi",
+						"classes/spiffy_permission.class.php"
+					],
+					[
+						"spif",
+						"classes/spiffy_controller.class.php"
+					],
+					[
+						"spiffy_controller",
+						"classes/spiffy_controller.class.php"
+					],
+					[
+						"pos",
+						"webapp/admin/templates/post_update.inc.php"
 					]
 				],
 				"width": 0.0
@@ -1766,27 +2390,27 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 400.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 400.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
 			},
-			"show_minimap": false,
-			"show_open_files": true,
+			"show_minimap": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 400.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 269,
+			"window_id": 244,
 			"workspace_name": ""
 		}
 	],
@@ -1794,7 +2418,7 @@
 	{
 		"recent_workspaces":
 		[
-			"/home/caio-note/repositorios/front-end/migracao-email/autenticacao-oi-mail/autenticacao-oi-mail.sublime-workspace"
+			"/home/caio/Sublime/empreendedor.sublime-workspace"
 		]
 	}
 }
